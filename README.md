@@ -2,21 +2,39 @@
 
 Repository dedicated to computational design works.
 
-### Space Truss Generator
+1 - Space Truss Generator
 
 A node in python to generate space truss from any geometry.
 
-###  
+2 - 
+
+3 - 
+
+4 -
+
+-
+
+n - 
+
+-
 
 
-# Ref. Grasshopper 3D + Python:
 
-### RhinoPython¹º¹ Primer
 
-[RhinoPython¹º¹ Primer](https://www.rhino3d.com/download/IronPython/5.0/RhinoPython101)
+### Ref. Grasshopper 3D + Python:
+
+
+
+1 - [RhinoPython¹º¹ Primer](https://www.rhino3d.com/download/IronPython/5.0/RhinoPython101)
 
 ### Support
 
-[Rhino.Python](https://developer.rhino3d.com/guides/#rhinopython)
+1 - [Rhino.Python](https://developer.rhino3d.com/guides/#rhinopython)
 
-[Rhino.Python Guides](https://developer.rhino3d.com/guides/rhinopython/)
+1 - [Rhino.Python Guides](https://developer.rhino3d.com/guides/rhinopython/)
+
+### Courses
+
+1 - [AAD Algorithms-Aided Design](https://github.com/renatogcruz/computational-design/tree/master/basic/AAD_Algorithms_Aided_Design)
+
+2 - [Generative Algorithms](http://morphogenesism.com/wp/generative-algorithms/)
