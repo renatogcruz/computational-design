@@ -12,18 +12,10 @@ A node in python to generate space truss from any geometry.
 
 4 -
 
--
-
 n - 
-
--
-
-
 
 
 ### Ref. Grasshopper 3D + Python:
-
-
 
 1 - [RhinoPython¹º¹ Primer](https://www.rhino3d.com/download/IronPython/5.0/RhinoPython101)
 
